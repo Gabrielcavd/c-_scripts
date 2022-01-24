@@ -1,2 +1,2 @@
-# c-_scripts
+# c++_scripts
 Scripts in c++ 
